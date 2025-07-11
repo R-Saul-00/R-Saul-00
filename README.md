@@ -12,3 +12,5 @@
 > [Instagram](https://www.instagram.com/rodrigosaul_zv?igsh=b2N2eTZpaW82ajdm "Instagram")
 
 > [Facebook](https://www.facebook.com/share/1BERUzN3MH/ "Facebook")
+
+![Mis GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Saul-00&show_icons=true&theme=radical)
