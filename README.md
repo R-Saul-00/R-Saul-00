@@ -10,13 +10,6 @@
 > Nuestro máximo esfuerzo de hoy puede ser el mínimo de mañana;
 > tú decides cuánto mejoras, y siempre sé una persona positiva y alegre.
 
-* Mis redes:
-> [TikTok](https://www.tiktok.com/@r_saul_00?_t=ZM-8xwjA4bO7O9&_r=1 "TikTok")
-
-> [Instagram](https://www.instagram.com/rodrigosaul_zv?igsh=b2N2eTZpaW82ajdm "Instagram")
-
-> [Facebook](https://www.facebook.com/share/1BERUzN3MH/ "Facebook")
-
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R-Saul-00&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -29,6 +22,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/r-saul-00/r-saul-00/output/pacman-contribution-graph.svg">
 </picture>
 
+## Mis redes:
+> [TikTok](https://www.tiktok.com/@r_saul_00?_t=ZM-8xwjA4bO7O9&_r=1 "TikTok")
+
 ###
 
 <div align="center">
@@ -37,9 +33,6 @@
   </a>
   <a href="https://www.facebook.com/rodigosaul.zaratevillarroel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="rodrigozarate787@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.twitch.tv/r_saul_00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
